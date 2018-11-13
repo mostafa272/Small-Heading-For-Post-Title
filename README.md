@@ -3,7 +3,10 @@ The Small Heading For Post Title is a simple Wordpress plugin for displaying sma
 
 ## Installation                            
 Download small-heading-for-post-title.zip file and upload it to wordpress plugins folder, then activate it. If you download release file,
-you should extract it to find small-heading-for-post-title.zip file.
+you should extract it to find small-heading-for-post-title.zip file.                          
+
+## How to use this plugin:                    
+Upload this plugin to your blog, Activate it.Then go to settings page of the plugin and set its options. (See Documentation page at Wiki)
 
 
 ## Donate to support us                                     
@@ -21,9 +24,13 @@ a metabox to your page/post forms in admin panel and you can set a custom text a
 the post title based on your choice.                           
 
 Also, in settings page of this plugin, you can add some CSS codes for styling the small headings and you can determine and control that
-small headings are shown in which sections of Wordpress.                                                  
+small headings are shown in which sections of Wordpress.                 
+
+## Documentation             
+
+https://github.com/mostafa272/Small-Heading-For-Post-Title/wiki/Documentation
                                   
                                   
 ## Demo                       
                 
-https://github.com/mostafa272/Small-Heading-For-Post-Title/wiki/Demo                
+https://github.com/mostafa272/Small-Heading-For-Post-Title/wiki/Demo                             
