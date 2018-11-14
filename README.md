@@ -1,5 +1,5 @@
 # Small-Heading-For-Post-Title
-The Small Heading For Post Title is a simple Wordpress plugin for displaying small headings before or after post title.        
+The Small Heading For Post Title is a simple Wordpress plugin for displaying small headings (subtitles) before or after post title.        
 
 ## Installation                            
 Download small-heading-for-post-title.zip file and upload it to wordpress plugins folder, then activate it. If you download release file,
@@ -18,13 +18,13 @@ Upload this plugin to your blog, Activate it.Then go to settings page of the plu
                                    
 ## Description                                                   
                 
-The Small Heading For Post Title is a simple plugin for displaying small headings before or after post title. It is a useful plugin
+The Small Heading For Post Title is a simple plugin for displaying small headings (subtitles) before or after post title. It is a useful plugin
 for the websites such as news websites that display some small headlines or captions before or after the main title. This plugin adds
 a metabox to your page/post forms in admin panel and you can set a custom text and position of the text and It is shown before or after
 the post title based on your choice.                           
 
-Also, in settings page of this plugin, you can add some CSS codes for styling the small headings and you can determine and control that
-small headings are shown in which sections of Wordpress.                 
+Also, in settings page of this plugin, you can add some CSS codes for styling the subtitles and you can determine and control that
+subtitles are shown in which sections of Wordpress (See Documentation page).                 
 
 ## Documentation             
 
